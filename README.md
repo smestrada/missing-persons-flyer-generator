@@ -4,15 +4,18 @@ A single-file HTML tool for law enforcement agencies to generate standardized, p
 
 ## Screenshots
 
-![Form view](screenshots/form-view.png)
+### The App
+<img src="screenshots/form-view.png" alt="Form view" width="700">
 
-![Missing Person flyer](screenshots/flyer-missing.png)
+### Alert Types
+<p align="left">
+  <img src="screenshots/flyer-missing.png" alt="Missing Person flyer" width="240">
+  <img src="screenshots/flyer-amber.png" alt="AMBER Alert flyer" width="240">
+  <img src="screenshots/flyer-silver.png" alt="Silver Alert flyer" width="240">
+</p>
 
-![AMBER Alert flyer](screenshots/flyer-amber.png)
-
-![Silver Alert flyer](screenshots/flyer-silver.png)
-
-![Located overlay](screenshots/flyer-located.png)
+### Located Overlay
+<img src="screenshots/flyer-located.png" alt="Located overlay" width="400">
 
 ## Why This Exists
 
