@@ -33,6 +33,10 @@ Inconsistent flyers undermine search efforts. Missing persons flyers vary wildly
 - **WCAG AA compliant** — all colors tested for contrast, color-blind safe (alert types differentiated by text + luminance, not color alone).
 - **No backend required** — single static HTML file. Works on IIS, GitHub Pages, a USB drive, or your local machine.
 
+## For Deputies
+
+If you're a patrol deputy, detective, or officer using this tool in the field, see the [**User Guide**](docs/USER-GUIDE.md) for step-by-step instructions, keyboard shortcuts, and a printable one-page cheat sheet you can tape to your MDC.
+
 ## Quick Start
 
 ### 1. Open the app
